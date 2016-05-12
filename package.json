@@ -1,0 +1,18 @@
+{
+  "name": "jspm-package-test",
+  "version": "0.1.0",
+  "description": "jspm beta package test",
+  "devDependencies": {
+    "jspm": "~0.17.0-beta.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luukschipperheyn/jspm-package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luukschipperheyn/jspm-package-test/issues"
+  },
+  "homepage": "https://github.com/luukschipperheyn/jspm-package-test#readme"
+}
